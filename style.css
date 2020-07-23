@@ -1,0 +1,46 @@
+
+.mainQ2 > div {
+    display: inline;
+}
+.mainQ2 > div> img{
+    width: 200px ;
+     cursor: pointer;
+      height:300px;
+}
+
+#head p{
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+}
+.record p {
+    display: inline-block;
+    vertical-align: top;
+    width:100px;
+}
+button{
+    margin: 16px;
+}
+
+.center{
+    text-align: center;
+    background-color: rgb(243, 243, 170);
+    height: 500px;
+    margin: 100px 200px;
+  
+}
+.mainNew{
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    margin: 50px 170px;
+}
+.mainNew > input{
+    margin: 30px;
+    display: block;
+    width:300px;
+    height: 30px;
+}
